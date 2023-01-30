@@ -63,7 +63,7 @@ public final class FabricPipeconfLoader {
     private static final String SEP = File.separator;
     private static final String SPECTRUM = "spectrum";
     private static final String BMV2 = "bmv2";
-    private static final String DEFAULT_PLATFORM = "default";
+    private static final String DEFAULT_PLATFORM = "full";
     private static final String BMV2_JSON = "bmv2.json";
     private static final String P4INFO_TXT = "p4info.txt";
     private static final String CPU_PORT_TXT = "cpu_port.txt";
